@@ -1,0 +1,11 @@
+{
+  "name": "Messenger Clone",
+  "description": "A 100% clone of Facebook Messenger with realtime chat using Firebase, and an integrated TKV AI chatbot powered by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
